@@ -4,3 +4,8 @@ Esta carpeta contiene la **documentación transversal** del monorepo: guías de 
 
 - **Propósito principal**: tener un punto único para la documentación “global” del proyecto (no específica de una sola app/agente).
 - **Recomendación**: organiza la documentación por temas (arquitectura, despliegue, datos, seguridad, observabilidad, etc.) y mantén enlaces desde los READMEs de cada componente hacia estas guías.
+
+## Documentos
+
+- [`analizador-incidencias.md`](./analizador-incidencias.md): Analizador de Incidencias (script, API y backoffice).
+- [`pruebas-analizador-incidencias.md`](./pruebas-analizador-incidencias.md): registro de pruebas.

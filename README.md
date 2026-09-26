@@ -7,6 +7,9 @@ _Base template for transversal projects in the AI Engineering Career Program —
 
 _Estas instrucciones tambien estan disponibles en [espanol](./README.es.md)._
 
+> **Project in this repository: TrackFlow Incident Analyzer** (script, API and backoffice).
+> Documentation (Spanish): [`docs/analizador-incidencias.md`](./docs/analizador-incidencias.md).
+
 ---
 
 ## Purpose
