@@ -7,6 +7,9 @@ _Plantilla base para proyectos transversales del Programa de Carrera en Ingenier
 
 _These instructions are also available in [English](./README.md)._
 
+> **Proyecto en este repositorio: Analizador de Incidencias de TrackFlow** (script, API y backoffice).
+> Documentación: [`docs/analizador-incidencias.md`](./docs/analizador-incidencias.md).
+
 ---
 
 ## Propósito

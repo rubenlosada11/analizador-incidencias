@@ -7,4 +7,9 @@ Each subfolder under `packages/` should represent **one versionable package** (f
 - **Main purpose**: encourage reuse and consistency across all company deliverables.
 - **Recommendation**: document packages as you add them—their public API and how they are consumed from `apps/`, `agents/`, and `workflows/`.
 
+## Packages
+
+- [`analisis-incidencias/`](./analisis-incidencias/README.md): validation and metrics for the incident CSV (standard-library Python).
+  Used by `scripts/analyze.py` and `services/api`.
+
 > _Spanish version: [README.es.md](./README.es.md)._

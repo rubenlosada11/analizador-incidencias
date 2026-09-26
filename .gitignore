@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Resultados generados por scripts/analyze.py
+results.csv
+
+# Variables de entorno (solo se versiona .env.example)
+.env
+.env.*
+!.env.example

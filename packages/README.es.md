@@ -6,3 +6,8 @@ Cada subcarpeta dentro de `packages/` debería representar **un paquete versiona
 
 - **Propósito principal**: fomentar reutilización y consistencia entre todos los desarrollos de la compañía.
 - **Recomendación**: documenta los paquetes que vayas añadiendo, su API pública y cómo se consumen desde `apps/`, `agents/` y `workflows/`.
+
+## Paquetes
+
+- [`analisis-incidencias/`](./analisis-incidencias/README.md): validación y métricas del CSV de incidencias (Python estándar).
+  Lo usan `scripts/analyze.py` y `services/api`.
